@@ -1,1 +1,1 @@
-# Bootcamp DIO <img align="center" width="45px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> - XP Inc. - Full Stack Developer <img align="center" src="![PTAD.png](https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png)" height=50>
+# Bootcamp DIO <img align="center" width="45px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> - XP Inc. - Full Stack Developer <img align="center" src="https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png" height=50>
