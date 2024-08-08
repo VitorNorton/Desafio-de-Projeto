@@ -1,0 +1,15 @@
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.sourcelink.json
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Vitor Nascimento\OneDrive\Documents\GitHub\Desafio de Projeto\Criando um Sistema e Abstraindo um Celular com POO em C#\obj\Debug\net6.0\ref\DesafioPOO.dll
