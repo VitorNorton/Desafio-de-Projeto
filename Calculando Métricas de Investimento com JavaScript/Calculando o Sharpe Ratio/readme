@@ -1,0 +1,25 @@
+Descrição
+O Sharpe Ratio é uma medida de desempenho ajustada ao risco de um investimento. Você precisa calcular o Sharpe Ratio para uma série de investimentos, considerando o retorno do investimento, o retorno livre de risco e o desvio padrão do retorno do investimento.
+
+Para calcular o Sharpe Ratio, utilize a fórmula:
+
+Sharpe Ratio = (Retorno do Investimento - Retorno Livre de Risco) / Desvio Padrão do Retorno
+
+Onde:
+
+Retorno do Investimento é o retorno total do investimento, expresso como um decimal (por exemplo, 10% é 0.10).
+Retorno Livre de Risco é o retorno de um ativo sem risco, expresso como um decimal.
+Desvio Padrão do Retorno é uma medida da volatilidade dos retornos do investimento, expresso como um decimal.
+Todos os valores devem ser expressos como decimais.
+
+Entrada
+A entrada deve receber uma string representando uma lista de investimentos. Cada investimento é representado por três valores separados por vírgulas:
+
+O retorno do investimento (em porcentagem decimal).
+O retorno livre de risco (em porcentagem decimal).
+O desvio padrão do retorno do investimento (em porcentagem decimal).
+Saída
+A saída deve retornar o Sharpe Ratio de cada investimento, arredondado para duas casas decimais.
+
+Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.

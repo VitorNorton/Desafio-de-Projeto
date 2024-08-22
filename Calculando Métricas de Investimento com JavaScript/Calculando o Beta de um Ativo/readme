@@ -1,0 +1,21 @@
+Descrição
+Você foi contratado para calcular o Beta de um ativo. O Beta é uma medida da volatilidade ou risco sistêmico de um ativo em comparação com o mercado como um todo. Ele é calculado usando a covariância entre os retornos do ativo e os retornos do mercado, dividida pela variância dos retornos do mercado.
+
+Para calcular o Beta, considere a seguinte fórmula:
+
+Beta = Cov(R_a, R_m) / Var(R_m)
+
+Onde:
+
+𝐶𝑜𝑣(𝑅𝑎,𝑅𝑚) é a covariância entre os retornos do ativo e os retornos do mercado. 𝑉𝑎𝑟(𝑅𝑚) é a variância dos retornos do mercado.
+
+Entrada
+A entrada receberá duas strings, representando as seguintes listas:
+
+A primeira lista contém os retornos do ativo;
+A segunda lista contém os retornos do mercado para o mesmo período.
+Saída
+A saída deve retornar o Beta do ativo, arredondado para duas casas decimais.
+
+Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
